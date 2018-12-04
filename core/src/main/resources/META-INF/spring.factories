@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.cached.simplecache.aspect.FeignCacheAopConfig,com.cached.simplecache.cache.DefaultCache
